@@ -6,7 +6,7 @@ description: the slide as templete.
 ---
 
 <!-- .slide: data-background="#33383E" -->
-# 商業思維讀書會範本
+# A/A-B/B 讀書筆記
   
 <!-- Put the link to this slide here so people can follow -->
 https://hackmd.io/@thinkandread/ByBEduoBU
