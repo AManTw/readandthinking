@@ -25,7 +25,7 @@ https://hackmd.io/@thinkandread/ByBEduoBU
 ---
 
 <!-- .slide: data-background="#C0C0C0" -->
-### 三個重點
+### N個重點
 
 - 價值主張畫布
 - 商業模式畫布
@@ -67,7 +67,7 @@ https://hackmd.io/@thinkandread/ByBEduoBU
 ---
 
 <!-- .slide: data-background="#C0C0C0" -->
-### 三個重點
+### N個重點
 
 - 重點一
 - 重點二
@@ -105,7 +105,7 @@ https://hackmd.io/@thinkandread/ByBEduoBU
 ---
 
 <!-- .slide: data-background="#C0C0C0" -->
-### 三個重點
+### N個重點
 
 - 重點一
 - 重點二
@@ -143,7 +143,7 @@ https://hackmd.io/@thinkandread/ByBEduoBU
 ---
 
 <!-- .slide: data-background="#C0C0C0" -->
-### 三個重點
+### N個重點
 
 - 重點一
 - 重點二
@@ -181,7 +181,7 @@ https://hackmd.io/@thinkandread/ByBEduoBU
 ---
 
 <!-- .slide: data-background="#C0C0C0" -->
-### 三個重點
+### N個重點
 
 - 重點一
 - 重點二
